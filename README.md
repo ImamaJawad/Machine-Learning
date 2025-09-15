@@ -17,8 +17,7 @@ This project applies machine learning techniques to spectral data in order to in
 - **Classification modeling approaches**  
 - **Evaluation and comparison of models**  
 
-All implementation, analysis, and results are contained in the notebook:  
-👉 `SpectralData/Imama_Jawad_SpectralData_Code_40462364.ipynb`
+All implementation, analysis, and results are contained in the notebook
 
 ---
 
